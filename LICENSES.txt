@@ -1,0 +1,3 @@
+Sitio Sala de Decisiones: interfaz y escenarios de desarrollo original para la iniciativa impulsada por Pedro Navarrete.
+Dependencia de estilos Bootstrap 5.3.8 (MIT), Copyright Bootstrap Authors, https://github.com/twbs/bootstrap/blob/main/LICENSE.
+Todos los escenarios son hipotéticos; metodologías conocidas no se atribuyen a Pedro.
